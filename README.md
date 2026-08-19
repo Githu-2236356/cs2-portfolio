@@ -2,6 +2,6 @@
 ## Nate Andrei P. Sañarez
 ## 8 - Dahlia
 ## Submission links:
-[Sañarez_Nate-Andrei_Distance assignment](https://github.com/Githu-2236356/cs2-portfolio/blob/main/q1/SA%C3%91AREZ_NATE-ANDREI_Distance.py)
+[Sañarez_Nate-Andrei_Distance assignment](q1/)
 
-[Hello.py assignment](https://github.com/Githu-2236356/cs2-portfolio/blob/main/q1/Hello.py)
+[hello.py](q1/hello.py)
