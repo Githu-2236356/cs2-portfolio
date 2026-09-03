@@ -23,6 +23,11 @@ try:
         time.sleep(2)
         print("Needs Improvement")
 
+    if score < 0:
+        print("Calculating grade...")
+        time.sleep(2)
+        print("Invalid Score")
+        
     time.sleep(2)
     print("Shutting down...")
     time.sleep(2)
