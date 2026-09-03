@@ -27,6 +27,11 @@ try:
         print("Calculating grade...")
         time.sleep(2)
         print("Invalid Score")
+
+    if score > 100:
+        print("Calculating grade...")
+        time.sleep(2)
+        print("Invalid Score")
         
     time.sleep(2)
     print("Shutting down...")
