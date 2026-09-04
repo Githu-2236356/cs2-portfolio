@@ -1,4 +1,4 @@
-#Logic Analysis:
+# Logic Analysis:
 Input: The program needs the grade of the student using it
 Boundary: The minimum valid score is 0
 Boundary: The maximum valid score is 100
