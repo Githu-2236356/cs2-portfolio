@@ -52,5 +52,43 @@ END
 
 # Clean Code Implementation
 
-### Source Code
-The Python source code file is located at [`./q1/score_checker.py`](./score_checker.py)[cite: 1].
+### Source Code:
+The Python source code file is located at [`./q1/score_checker.py`](./score_checker.py)
+
+# Testing
+
+| Test | Input | Purpose | Expected Output | Actual Output | Result |
+|---|---|---|---|---|---|
+| 1 | -1 | Below minimum | Invalid score. | Invalid score. | PASS |
+| 2 | 0 | Minimum boundary | Needs Improvement | Needs Improvement | PASS |
+| 3 | 74 | Below Satisfactory boundary | Needs Improvement | Needs Improvement | PASS |
+| 4 | 75 | Satisfactory boundary | Satisfactory | Satisfactory | PASS |
+| 5 | 80 | Very Satisfactory boundary | Very Satisfactory | Very Satisfactory | PASS |
+| 6 | 90 | Outstanding boundary | Outstanding | Outstanding | PASS |
+| 7 | 100 | Maximum boundary | Outstanding | Outstanding | PASS |
+| 8 | 101 | Above maximum | Invalid score. | Invalid score. | PASS |
+
+# Testing Reflection
+
+### Why is it important to test the values 0 and 100?
+So that we know which range the number given is, and then we give them their grade/output.
+
+### Why did you also test -1 and 101?
+To ensure that the input given is valid and is within the range needed.
+
+### Which test helped you understand boundary conditions the most?
+Testing for number ranges was a real pain in my side, but it was fun to learn and made me gain a deeper understanding.
+
+### Did any of your tests initially fail? If yes, what did you change in your program?
+Yes, initially a few bugs came in, the syntax was wrong a few times and i used the wrong functions. But i managed to do research, changed it to the correct syntax, and even learned a few extra things to add to the program.
+
+# Reflection
+
+### How did selection structures make the program more useful?
+Selection structures let the program become more open to new inputs.
+
+### How did proper comments and readable formatting improve your program?
+Proper readable and proper formatting will help other people understand the programs code easier and quicker, making it more efficient and organized.
+
+### Why is it useful to plan the program using a flowchart and pseudocode before writing the code?
+Planning a program with flowcharts and pseudocode before writing the actual code allows you to gain a deeper insight and understanding of what your planning to build. Which could help you become more efficient in your coding experience.
