@@ -34,26 +34,30 @@ The program checks if the grade given is between a range of numbers, as shown in
 # Flowchart
 <img width="882" height="627" alt="chart" src="https://github.com/user-attachments/assets/93a8b963-f62e-4c44-b307-228bc50858b7" />
 
-# PseudoCodeSTART
-  
+# PseudoCode
+  ```text
+START
 INPUT score
-  IF score < 0 OR score > 100 THEN
+IF score < 0 OR score > 100 THEN
     DISPLAY "Invalid score."
-  ELSE IF score >= 90 THEN
+ELSE IF score >= 90 THEN
     DISPLAY "Outstanding"
-  ELSE IF score >= 80 THEN
+ELSE IF score >= 80 THEN
     DISPLAY "Very Satisfactory"
-  ELSE IF score >= 75 THEN
+ELSE IF score >= 75 THEN
     DISPLAY "Satisfactory"
-  ELSE
+ELSE
     DISPLAY "Needs Improvement"
-  END IF
+END IF
+END
+```
+  
 END
 
 # Clean Code Implementation
 
 ### Source Code:
-The Python source code file is located at [`./q1/score_checker.py`](./score_checker.py)
+Click here for the [`Source Code`](./score_checker.py)
 
 # Testing
 
