@@ -1,7 +1,10 @@
+#imports
 import time
 import math
 
+#try for valid inputs
 try:
+    #Score calculations and added loading time for calculating effect
     score = float(input("Please enter your grade: "))
     if score in range(90,101):
         print("Calculating grade...")
@@ -38,5 +41,6 @@ try:
     time.sleep(2)
     print("Calculation complete")
 
+#except ValueError if someone enters an invalid input
 except ValueError:
     print("Your input was not valid")
