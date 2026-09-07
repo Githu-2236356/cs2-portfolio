@@ -25,7 +25,6 @@ Outstanding, Very Satisfactory, Satisfactory, Needs improvement, Invalid Score
         print("Invalid Score")
 
 ### Boundary Condition, What condition will you use to determine whether the score is valid?
-What condition will you use to determine whether the score is valid?
 score < 0 or score > 100
 
 ### Multiple Decision Paths, Explain how the program decides which classification should be displayed.
