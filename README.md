@@ -12,3 +12,5 @@ SUBMISSION LINKS:
 [score_checker.py](q1/score_checker.py)
 
 [score_checker.md](q1/score_checker.md)
+
+[score_checker.md](q1/workshop_validator.py)
