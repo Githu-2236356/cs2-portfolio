@@ -14,3 +14,7 @@ SUBMISSION LINKS:
 [score_checker.md](q1/score_checker.md)
 
 [workshop_validator.py](q1/workshop_validator.py)
+
+[secure_registration.py](q1/secure_registration.py)
+
+[cybersecurity.md](q1/cybersecurity.md)
