@@ -18,3 +18,5 @@ SUBMISSION LINKS:
 [secure_registration.py](q1/secure_registration.py)
 
 [cybersecurity.md](q1/cybersecurity.md)
+
+[Canteen Purchase Calculator.py](Q2/Canteen_Purchase_Calculator.py)
