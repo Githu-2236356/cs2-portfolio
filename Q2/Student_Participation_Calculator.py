@@ -1,3 +1,4 @@
+#Code by nate and shiery
 try:
   day1 = float(input("Enter Day 1 participation (In hours): "))
   Score1 = float(input("Enter Day 1 quiz score: "))
