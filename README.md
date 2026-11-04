@@ -22,3 +22,5 @@ SUBMISSION LINKS:
 [Canteen Purchase Calculator.py](Q2/Canteen_Purchase_Calculator.py)
 
 [Student_Performance_Evaluator.py](Q2/Student_Performance_Evaluator.py)
+
+[Student Participation Calculator.py](Q2/Student_Participation_Calculator.py)
