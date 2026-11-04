@@ -1,4 +1,4 @@
-# The nate signature unnecesary comment
+# signature nate unnecesary comment
 
 try:
     Score1 = input("Enter Score 1: ")
