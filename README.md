@@ -30,3 +30,5 @@ SUBMISSION LINKS:
 [Student Participation Calculator.py](Q2/Student_Participation_Calculator.py)
 
 [Iterative_Control_Structure.py](Q2/Iterative_Control_Structure.py)
+
+[In_class_Programming_Activities.py](Q2/In_class_Programming_Activities.py)
