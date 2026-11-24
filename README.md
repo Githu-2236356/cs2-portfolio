@@ -32,3 +32,5 @@ SUBMISSION LINKS:
 [Iterative_Control_Structure.py](Q2/Iterative_Control_Structure.py)
 
 [In_class_Programming_Activities.py](Q2/In_class_Programming_Activities.py)
+
+[Programming_Exercises_2.py](Q2/Programming_Exercises_2.py)
